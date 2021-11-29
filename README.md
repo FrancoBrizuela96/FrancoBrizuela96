@@ -23,3 +23,6 @@
 - 🌱 I’m currently learning React Native 
 - 🤔 I’m looking for help to find my first job 
 - 📫 How to reach me: Telephone +54 2216699325 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francobrizuela-dev/)]
