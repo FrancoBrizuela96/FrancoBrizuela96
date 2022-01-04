@@ -21,7 +21,7 @@
 ![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue?style=flat-square&logo=ReactNative)
 
 - 🌱 I’m currently learning React Native 
-- 🤔 I’m looking for help to find my first job 
+- 🤔 I’m looking for an opportunity to find my first job 
 - 📫 How to reach me: Telephone +54 2216699325 
 
 
