@@ -1,5 +1,4 @@
-### Hi there 👋 My name is Franco and I am an advanced student in Full-Stack Web Development. Programming is my passion and I firmly believe that we are constantly learning to improve our technologies, I define myself as a lifelong learner.
-
+### Hi there 👋 My name is Franco and I am an Full-Stack Web Developer.
 
 # Skills
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/pabmena)](https://github.com/pabmena) 
@@ -20,8 +19,7 @@
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=ES6)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue?style=flat-square&logo=ReactNative)
 
-- 🌱 I’m currently learning React Native 
-- 🤔 I’m looking for an opportunity to find my first job 
+- 🌱 I’m currently working at BlueCorner. 
 - 📫 How to reach me: Telephone +54 2216699325 
 
 
